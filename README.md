@@ -6,7 +6,7 @@ CS student @ Télécom Paris (Polytechnic Institute of Paris) who loves to creat
 
 ☝️ Big fan of hackathons/gamejams here.
 
-| Event             | Project  | Prize |
+| Event             | Project repo  | Prize |
 | :---------------- | :------: | ----: |
 | Sorbonne Université GameJam        |   [The Sound of Silence](https://github.com/tom-effernelli/gamejam-psu-the-sound-of-silence)   | 2nd position |
 | Manus Hackathon           |   [Virtual Theremine](https://github.com/tom-effernelli/hackathon-manus-virtual-theremin)   | - |
