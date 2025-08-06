@@ -2,6 +2,8 @@
 
 CS student @ Télécom Paris (Polytechnic Institute of Paris) who loves to create, build and share ideas ✨✨.
 
+-> Specialized in AI and Cybersecurity
+
 ## Tech events I attended
 
 ☝️ Big fan of hackathons/gamejams here.
