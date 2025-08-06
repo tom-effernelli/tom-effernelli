@@ -1,6 +1,7 @@
 ## Who am I?
 
-CS student @ Télécom Paris (Polytechnic Institute of Paris) specialized in AI and Cybersecurity & Math student @ Sorbonne Université.\
+CS student @ Télécom Paris (Polytechnic Institute of Paris) specialized in AI and Cybersecurity.\
+Also math student @ Sorbonne Université.\
 I love to create, build and share ideas ✨✨.
 
 ## Tech events I attended
