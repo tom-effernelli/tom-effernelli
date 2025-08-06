@@ -11,3 +11,4 @@ CS student @ Télécom Paris (Polytechnic Institute of Paris) who loves to creat
 | Sorbonne Université GameJam        |   [The Sound of Silence](https://github.com/tom-effernelli/gamejam-psu-the-sound-of-silence)   | 2nd position |
 | Manus Hackathon           |   [Virtual Theremine](https://github.com/tom-effernelli/hackathon-manus-virtual-theremin)   | - |
 | Shipfast Hackathon (@ Ecole 42, featuring Lovable, Anthropic, Cerebras, Windsurf)    |  [CareSync](https://github.com/tom-effernelli/hackathon-shipfast-caresync)   | Finalists (top-5) |
+| Cerebras Hackathon |  [VibeMatch](https://github.com/tom-effernelli/hackathon-cerebras-cline-vibematch)   | top-5 |
