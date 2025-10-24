@@ -6,7 +6,7 @@ I love to create, build and share ideas ✨✨.
 
 ## Tech events I attended
 
-☝️ Big fan of hackathons/gamejams here.
+Big fan of hackathons/gamejams here.
 
 | Event             | Project repo  | App | Prize |
 | :---------------- | :------: | :------: | ----: |
