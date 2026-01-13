@@ -56,7 +56,7 @@ Here is my track record:
 | Shipfast Hackathon (@ Ecole 42, featuring Lovable, Anthropic, Cerebras, Windsurf) | [CareSync](https://github.com/tom-effernelli/hackathon-shipfast-caresync) | [Try it here](https://hackathon-shipfast-caresync.vercel.app/) | Finalists (top-5) |
 | Cerebras Hackathon |  VibeMatch (private repo) | [Try it here](https://vibematch.tech/) | top-5 | 
 
-**Community Leadership:** I am also an organizer for **Hack the Fork**, a hackathon focused on foodtech (sponsorships, mentoring, communication).
+**Community Leadership:** I am also an organizer for [Hack the Fork](https://www.hackthefork.com/), a hackathon focused on foodtech (sponsorships, mentoring, communication).
 
 <div align="center">
   <a href="https://tom-effernelli.vercel.app"><b>Visit my Website</b></a> •
