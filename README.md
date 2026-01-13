@@ -8,7 +8,7 @@ My focus is on **Data Science, AI, and Cybersecurity**, but I also have a strong
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -25,7 +25,7 @@ My focus is on **Data Science, AI, and Cybersecurity**, but I also have a strong
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 Here are some of the projects I've built recently:
 
@@ -45,7 +45,7 @@ Here are some of the projects I've built recently:
 
 ---
 
-## 🏆 Hackathons & GameJams
+## Hackathons & GameJams
 
 Here is my track record:
 
@@ -59,6 +59,6 @@ Here is my track record:
 **Community Leadership:** I am also an organizer for **Hack the Fork**, a hackathon focused on foodtech (sponsorships, mentoring, communication).
 
 <div align="center">
-  <a href="https://tom-effernelli.vercel.app"><b>🌐 Visit my Website</b></a> •
-  <a href="https://linkedin.com/in/tom-effernelli"><b>👔 LinkedIn</b></a>
+  <a href="https://tom-effernelli.vercel.app"><b>Visit my Website</b></a> •
+  <a href="https://linkedin.com/in/tom-effernelli"><b>LinkedIn</b></a>
 </div>
