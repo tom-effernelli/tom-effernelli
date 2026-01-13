@@ -49,12 +49,12 @@ Here are some of the projects I've built recently:
 
 Here is my track record:
 
-| Event | Project | Stack / Details | Result |
-| :--- | :--- | :--- | :--- |
-| **Shipfast Hackathon** <br> *(Station F / Ecole 42)* | [CareSync](https://github.com/tom-effernelli/hackathon-shipfast-caresync) | React, AI Agents | [cite_start]**Finalist (Top 5)** [cite: 54] |
-| **Cerebras Hackathon** | VibeMatch | AI Inference | **Top 5** |
-| **Sorbonne GameJam** | [The Sound of Silence](https://github.com/tom-effernelli/gamejam-psu-the-sound-of-silence) | Unity, C# | [cite_start]**🥈 2nd Place** [cite: 54] |
-| **Manus Hackathon** | [Virtual Theremine](https://github.com/tom-effernelli/hackathon-manus-virtual-theremin) | Computer Vision | Participant |
+| Event | Project repo | App | Prize |
+| :---------------- | :------: | :------: | ----: |
+| Sorbonne Université GameJam | [The Sound of Silence](https://github.com/tom-effernelli/gamejam-psu-the-sound-of-silence) | [Try it here](https://gamejam-psu-the-sound-of-silence.vercel.app/) | 2nd position |
+| Manus Hackathon | [Virtual Theremine](https://github.com/tom-effernelli/hackathon-manus-virtual-theremin) | [Try it here](https://hackathon-manus-virtual-theremin.vercel.app/) | - |
+| Shipfast Hackathon (@ Ecole 42, featuring Lovable, Anthropic, Cerebras, Windsurf) | [CareSync](https://github.com/tom-effernelli/hackathon-shipfast-caresync) | [Try it here](https://hackathon-shipfast-caresync.vercel.app/) | Finalists (top-5) |
+| Cerebras Hackathon |  VibeMatch (private repo) | [Try it here](https://vibematch.tech/) | top-5 | 
 
 **Community Leadership:** I am also an organizer for **Hack the Fork**, a hackathon focused on foodtech (sponsorships, mentoring, communication).
 
